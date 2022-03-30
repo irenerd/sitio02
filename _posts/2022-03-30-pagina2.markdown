@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Por acá puedes abrir la página 2"
+date:   2022-03-30 17:48:21 -0500
+categories: HTML
+---
+En este post puse el enlace a la página que creé en HTML porque no supe cómo ponerla en el menú superior:
+
+[pagina 2](http://127.0.0.1:4000/pagina-2.html)
