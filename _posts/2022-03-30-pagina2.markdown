@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Por acá puedes abrir la página 2"
+title:  "Metodología"
 date:   2022-03-30 17:48:21 -0500
 categories: HTML
 ---
-En este post puse el enlace a la página que creé en HTML porque no supe cómo ponerla en el menú superior:
+Metodología
+
+1. Recolección de información oral: registro de testimonios en audio por medio de entrevistas individuales con los protagonistas de la historia y registro fotográfico.
+ ​
+2. Prototipo web: para la publicación del resultado de la investigación utilizaré el blog de Wordpress que nos provee la universidad y para la(s) línea(s) de tiempo y mapas utilizaré las herramientas “Storymaps” y “Timeline” de Knightlab que son de uso gratuito. A partir de las entrevistas quisiera generar un texto y piezas sonoras que ayuden a comunicar la investigación.
+
+3. Texto académico: con el resultado de la investigación.
 
 [pagina 2](http://127.0.0.1:4000/pagina-2.html)

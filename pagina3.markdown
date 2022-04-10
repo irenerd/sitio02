@@ -1,6 +1,6 @@
 ---
 layout: page
-title: linea de tiempo
+title: Línea de tiempo
 permalink: /linea-de-tiempo/
 ---
 Esta es la página de la visualización de la linea de tiempo
