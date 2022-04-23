@@ -3,7 +3,9 @@ layout: page
 title: Acerca de
 permalink: /acerca/
 ---
-El objetivo de esta investigación es narrar la historia de la llegada a internet de la Red Cultural del Banco de la República, los proyectos digitales que abrieron ese camino y las personas e instituciones que participaron en él.
+El objetivo de esta investigación es narrar la historia de la llegada a internet de la Red Cultural del Banco de la República y su proyecto digital lablaa.org.
+
+los proyectos digitales que abrieron ese camino y las personas e instituciones que participaron en él.
 
 Objetivos secundarios: 
 
