@@ -4,6 +4,8 @@
 
 layout: home
 ---
+<iframe src="https://embed.kumu.io/b4b6d06d217ca59d9482c4e97921a507" width="940" height="600" frameborder="0"></iframe> 
+
 ## Del fichero al ciberespacio
 ### Pioneros de internet en Colombia: lablaa.org
 
